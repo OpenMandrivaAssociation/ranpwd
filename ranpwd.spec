@@ -32,3 +32,23 @@ cryptographically secure random number generator.
 %attr(0755,root,root) %{_bindir}/ranpwd
 %{_mandir}/man1/ranpwd.1*
 
+
+
+%changelog
+* Tue Sep 08 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.2-5mdv2010.0
++ Revision: 433056
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.2-4mdv2009.0
++ Revision: 260043
+- rebuild
+
+* Fri Jul 25 2008 Thierry Vignaud <tvignaud@mandriva.com> 1.2-3mdv2009.0
++ Revision: 247862
+- rebuild
+
+* Sun Jan 20 2008 David Walluck <walluck@mandriva.org> 1.2-1mdv2008.1
++ Revision: 155269
+- import ranpwd
+
+
