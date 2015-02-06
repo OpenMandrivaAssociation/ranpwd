@@ -1,6 +1,6 @@
 Name:           ranpwd
 Version:        1.2
-Release:        %mkrel 5
+Release:        6
 Summary:        Program for generating random passwords
 License:        GPL
 Group:          Text tools
