@@ -8,6 +8,7 @@ URL:            ftp://ftp.kernel.org/pub/software/utils/admin/ranpwd/
 Source0:        ftp://ftp.kernel.org/pub/software/utils/admin/ranpwd/ranpwd-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 
+BuildRequires:	make
 %description
 The ranpwd program can be used to generate random passwords using the in-kernel
 cryptographically secure random number generator.
